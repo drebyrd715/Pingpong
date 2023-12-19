@@ -1,0 +1,16 @@
+#PingPong{
+    text-align: center;
+}
+#gameBoard{
+    border: 2px solid;
+}
+#scoreBoard{
+    font-size: 60px;
+}
+#resetButton{
+    font-size: 18px;
+    width: 80px;
+    height: 30px;
+    border: solid red;
+    border-radius: 30px;
+}
